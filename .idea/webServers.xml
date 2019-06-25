@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9c0c926-4aea-419c-885b-ec8744eb5596" name="learnphp.workteamhtml.com" url="http://ftp.workteamhtml.com">
+        <fileTransfer host="ftp.workteamhtml.com" port="21" rootFolder="/learnphp">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
